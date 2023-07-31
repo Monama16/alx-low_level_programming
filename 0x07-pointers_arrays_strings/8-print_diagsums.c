@@ -14,7 +14,7 @@ void print_diagsums(int *a, int size)
 	unsigned int string, string1;
 
 	string = 0;
-	string1= 0;
+	string1 = 0;
 
 	for (i = 0; i < size; i++)
 	{
